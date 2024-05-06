@@ -1,12 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Aishwarya Pawar</h1>
-<h3 align="center">🚀 Software Engineer | Backend/Frontend Developer | DevOps Enthusiast | Passionate Learner | Seeking Impactful Projects
+<h3 align="center">🚀 Versatile Software Engineer | Backend/Frontend Developer | DevOps Enthusiast
+💼 Seeking Impactful Projects | Committed Learner | Ready to Innovate
 </h3>
 
-- 🌱 I’m currently learning **Frameworks and Courses.**
-- 
-
-- 📫 How to reach me **pawaraishwarya443@gmail.com**
+- 🚀 I am a tech enthusiast 🌟
+👩‍💻 I am proficient in Python, Java, and C++ 💻
+🔧 I am a collaborative problem-solver 🧠
+🌱 I am eager to dive into new projects 🚀
+🔍 I am seeking connections and opportunities 🌐
+🎓 I am a recent graduate ready to make an impact 🎓
+🌟 I am committed to continuous learning and growth ✨
+  
+- 📫 Contact me on **pawaraishwarya443@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
