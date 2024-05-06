@@ -4,15 +4,16 @@
 💼 Seeking Impactful Projects | Committed Learner | Ready to Innovate
 </h3>
 
-- 🚀 I am a tech enthusiast 🌟
--👩‍💻 I am proficient in Python, Java, and C++ 💻
--🔧 I am a collaborative problem-solver 🧠
--🌱 I am eager to dive into new projects 🚀
--🔍 I am seeking connections and opportunities 🌐
--🎓 I am a recent graduate ready to make an impact 🎓
--🌟 I am committed to continuous learning and growth ✨
-  
+- 🚀 I am a tech enthusiast 🌟  
+- 👩‍💻 I am proficient in Python, Java, and C++ 💻  
+- 🔧 I am a collaborative problem-solver 🧠  
+- 🌱 I am eager to dive into new projects 🚀  
+- 🔍 I am seeking connections and opportunities 🌐  
+- 🎓 I am a recent graduate ready to make an impact 🎓  
+- 🌟 I am committed to continuous learning and growth ✨  
+
 - 📫 Contact me on **pawaraishwarya443@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
