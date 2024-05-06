@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aishwarya Pawar</h1>
 <h3 align="center">🚀 Versatile Software Engineer | Backend/Frontend Developer | DevOps Enthusiast
-💼 Seeking Impactful Projects | Committed Learner | Ready to Innovate
+                   💼 Seeking Impactful Projects | Committed Learner | Ready to Innovate
 </h3>
 
 - 🚀 I am a tech enthusiast 🌟  
