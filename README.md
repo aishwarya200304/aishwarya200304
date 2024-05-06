@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Aishwarya Pawar</h1>
-<h3 align="center">A passionate backend developer from Canada</h3>
+<h3 align="center">🚀 Software Engineer | Backend/Frontend Developer | DevOps Enthusiast | Passionate Learner | Seeking Impactful Projects
+</h3>
 
 - 🌱 I’m currently learning **Frameworks and Courses.**
+- 
 
 - 📫 How to reach me **pawaraishwarya443@gmail.com**
 
